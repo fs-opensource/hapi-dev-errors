@@ -23,7 +23,7 @@
     "eslint-plugin-node": "~11.1.0",
     "eslint-plugin-promise": "~4.3.1",
     "eslint-plugin-standard": "~5.0.0",
-    "husky": "~5.2.0",
+    "husky": "~6.0.0",
     "sinon": "~9.2.1"
   },
   "engines": {
